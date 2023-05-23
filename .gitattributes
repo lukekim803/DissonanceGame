@@ -1,1 +1,2 @@
 Assets.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Flashlight filter=lfs diff=lfs merge=lfs -text
